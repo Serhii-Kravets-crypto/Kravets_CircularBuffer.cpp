@@ -1,5 +1,11 @@
 // Kravets_CircularBuffer.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
+/*Створити клас-контейнер "CircularBuffer" для зберігання великої кількості даних за варіантами. 
+void write(const T& item);
+T read();
+bool is_full() const;
+bool is_empty() const;
+*/
 
 #include <iostream>
 using namespace std;
